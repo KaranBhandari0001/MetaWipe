@@ -98,7 +98,3 @@ Everything runs locally in your browser.
 If you found this useful, consider giving it a star ⭐
 
 ---
-
-## 📄 License
-
-MIT License
