@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"> <!-- 🔥 IMPORTANT FIX -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MetaWipe</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <h1>🧹 MetaWipe</h1>
+  <p class="subtitle">Clean your image metadata instantly</p>
+
+  <div class="upload-box">
+    <input type="file" id="upload" accept="image/*">
+  </div>
+
+  <div id="preview-container">
+    <img id="preview" />
+  </div>
+
+  <button id="clean">Remove Metadata</button>
+
+  <a id="download">⬇ Download Clean Image</a>
+
+  <script src="popup.js"></script>
+</body>
+</html>
