@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "MetaWipe",
+  "version": "1.0",
+  "description": "Remove EXIF, AI metadata, and hidden tags from images instantly.",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  }
+}
